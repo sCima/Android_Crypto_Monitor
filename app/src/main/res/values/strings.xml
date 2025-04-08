@@ -4,5 +4,5 @@
     <string name="label_rate">Cotação - BITCOIN</string>
     <string name="label_value">145,766.73 R$</string>
     <string name="label_date">17/04/23 13:54h</string>
-    <string name="label_refresh">PALMEIRAS</string>
+    <string name="label_refresh">Atualizar</string>
 </resources>

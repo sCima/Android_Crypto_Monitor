@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color primary
+color purple_200
+color purple_500
+color purple_700
+color success
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable shape_button_refresh
+id btn_refresh
+id component_quote_information
+id component_toolbar
+id lbl_date
+id lbl_rate
+id lbl_value
+id toolbar_main
+layout activity_main
+layout component_button_refresh
+layout component_quote_information
+layout component_toolbar_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string app_title
+string label_date
+string label_rate
+string label_refresh
+string label_value
+style Theme.Aula3103
+xml backup_rules
+xml data_extraction_rules
