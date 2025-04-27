@@ -112,6 +112,7 @@ private fun makeRestCall() {
 ## Evidências de Execução
 Pré execução
 ![app antes da execução](images/antes.png)
+
 Pós execução
 ![app depois da execução](images/execucao.png)
 
