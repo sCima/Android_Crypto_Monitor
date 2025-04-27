@@ -110,7 +110,9 @@ private fun makeRestCall() {
 - Lida com código de resposta e exceções, exibindo `Toast` em caso de falha.
 
 ## Evidências de Execução
+Pré execução
 ![app antes da execução](images/antes.png)
+Pós execução
 ![app depois da execução](images/execucao.png)
 
 > A captura acima demonstra a interface exibindo o valor formatado em reais e o timestamp convertido corretamente.
