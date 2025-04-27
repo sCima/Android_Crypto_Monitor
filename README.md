@@ -6,7 +6,7 @@ Este projeto Android em Kotlin consome a API do MercadoBitcoin para exibir o val
 Este projeto exemplifica o uso de kotlinx-coroutines para requisições assíncronas, aliado ao Retrofit2 (com Gson). Ao tocar no botão “Refresh”, a interface dispara uma chamada REST que, em caso de sucesso, atualiza dois TextView exibindo o preço em reais e a data/hora convertida do timestamp Unix.
 
 ## Ferramentas e Dependências
-- **Kotlin** (linguagem moderna com suporte nativo a Coroutines)
+- **Kotlin** 
 - **Gradle** (sistema de build)
 - **Bibliotecas externas:**
   - `org.jetbrains.kotlinx:kotlinx-coroutines-android`
